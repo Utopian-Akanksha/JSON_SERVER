@@ -30,7 +30,68 @@
       "Price": 500000
     }
   ],
-  "users":[],
+  "users":[
+    {
+      "id":1,
+      "first": "Michel Swift",
+      "email": "Michel.Swift@kayla.info",
+      "group": "Student"
+    },
+    {
+      "id":2,
+      "first": "Akshara Singh",
+      "email": "akshara.singh@kayla.info",
+      "group": "Student"
+    },
+    {
+      "id":3,
+      "first": "Renu Mathews",
+      "email": "renu.methews@kayla.info",
+      "group": "Instructor"
+    },
+    {
+      "id":4,
+      "first": "Aanchal Gupta",
+      "email": "aanchal@kayla.info",
+      "group": "Instructor"
+    },
+    {
+      "id":5,
+      "first": "Vinayak Namasudra",
+      "email": "vinayak_nama@kayla.info",
+      "group": "Admin"
+    },
+    {
+      "id":6,
+      "first": "Urmila Sonawane",
+      "email": "urmila.sona@kayla.info",
+      "group": "Instructor"
+    },
+    {
+      "id":7,
+      "first": "Anurag Pathak",
+      "email": "pathak.anurag@kayla.info",
+      "group": "Student"
+    },
+    {
+      "id":8,
+      "first": "Ridhi Chandel",
+      "email": "ridhi.chandel@kayla.info",
+      "group": "Student"
+    },
+    {
+      "id":9,
+      "first": "Prashant Kumar",
+      "email": "prashant_kumar@kayla.info",
+      "group": "Instructor"
+    },
+    {
+      "id":10,
+      "first": "Samir Kumar",
+      "email": "sam_kumar@kayla.info",
+      "group": "Instructor"
+    }
+  ],
   "posts":[],
     "dogs": [
       {
